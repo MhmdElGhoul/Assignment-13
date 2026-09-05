@@ -1,0 +1,27 @@
+A) Section 1:
+----------
+
+1- Create an empty array
+2- Add 55 into the array. The array becomes now: [55]
+3- Add at the beginning 13, 18. The array becomes now: [13,18,55]
+4- Add at the end 127. The array becomes now: [13,18,55,127]
+5- log the first element of the array
+6- log the length of the array
+7- log the type of the array
+8- log all the elements of the array using while loop
+9- log all the elements of the array using do-while loop
+10- log all the elements of the array using for loop
+11- log all the elements of the array using for of
+12- create a variable called total with default value of 0
+13- loop over the array and add all indicies of the array to total variable
+14- log all elements that divided by 3 or 5 using for loop
+15- loop over the array and log all element, but when you find a variable that divided by 5 and 11, skip the current iteration
+16- loop over the array and log all element, but when you find a variable that divided by 3, exit the loop.
+17- remove first element of the array. The array becomes now: [18, 55, 127]
+18- remove last element of the array. The array bocomes now: [18, 55]
+19- log all elements of the array using for loop
+
+Section 2:
+---------
+1- Create 3 nested loops, first loop's variable called i, second loop's variable called j and third loop's variable called k. All of them start with 0 until 5, give all of them lables.
+2- log all the variables of them, inside third loop. When i = j - 1 and j = k - 1. exit the first loop.
